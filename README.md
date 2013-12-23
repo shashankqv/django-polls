@@ -1,1 +1,1 @@
-Django Polls example codes
+Django 1.5 Polls example with codes
